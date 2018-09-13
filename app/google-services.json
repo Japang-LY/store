@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "856054213583",
+    "firebase_url": "https://i-won-t-die.firebaseio.com",
+    "project_id": "i-won-t-die",
+    "storage_bucket": "i-won-t-die.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856054213583:android:ba6ca60ae19c30fc",
+        "android_client_info": {
+          "package_name": "com.japangly.android.iwontdie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856054213583-dguh48o0g7vipmbekibcfstdgvfi6s8k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.japangly.android.iwontdie",
+            "certificate_hash": "e7107a64a8b9bc6f6245160f28857724f210bc55"
+          }
+        },
+        {
+          "client_id": "856054213583-8hc0nth2rl9mmpion121hsugnpqk8trs.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "856054213583-8hc0nth2rl9mmpion121hsugnpqk8trs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhgf52sShYqCLAmtzKoXtRLLnuKSlhS54"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856054213583-8hc0nth2rl9mmpion121hsugnpqk8trs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
